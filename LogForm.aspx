@@ -10,7 +10,7 @@
     <div style="float:left">
         <dx:ASPxButton ID="ASPxButtonDeleteLogs" runat="server" Text="Delete logs"  
             onclick="ASPxButtonDeleteLogs_Click">
-        </dx:ASPxButton>
+        </dx:ASPxButton>aaa
     </div>
 
     <div style="float:left; padding-left:10px" >
